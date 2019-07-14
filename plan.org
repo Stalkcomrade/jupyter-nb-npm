@@ -1,0 +1,5 @@
+1) fork layer-cake and resolve one export to default
+2) change svelte to version 2 from 3
+3) redirect from github to cdn
+
+4) use rollup for small projects

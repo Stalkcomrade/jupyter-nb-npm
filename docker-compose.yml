@@ -1,0 +1,13 @@
+version: '3'
+
+services:   
+  jupyter:
+    image: jupyter/scipy-notebook
+    ports:
+      - 8888:8888
+      - 9229:9229
+    volumes:
+      - .:/app:Z
+      - /var/run/docker.sock:/var/run/docker.sock
+    command: jupyter lab --notebook-dir=/app
+    tty: true
