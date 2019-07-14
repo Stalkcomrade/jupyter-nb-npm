@@ -2,3 +2,7 @@
 .ipynb_checkpoints/
 dist/
 bundle.*
+buidl/
+node_modules/
+svelte_io_test.egg-info/
+data/
