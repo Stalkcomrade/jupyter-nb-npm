@@ -1,4 +1,4 @@
 .eggs/
 .ipynb_checkpoints/
 dist/
-bundle.js
+bundle.*
