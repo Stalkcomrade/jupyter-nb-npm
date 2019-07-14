@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: svelte-io-test
+Version: 0.0.0
+Summary: Collection of infrastructure and tools for research in neural network interpretability.
+Home-page: UNKNOWN
+Author: The Lucid Authors
+License: Apache License 2.0
+Description: UNKNOWN
+Platform: UNKNOWN
+Provides-Extra: test
