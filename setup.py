@@ -33,7 +33,7 @@ setup(
     license="Apache License 2.0",
     install_requires=[
         "numpy",
-        "tensorflow==1.14.0",
+        "tensorflow==2.3.1",
         "scipy",
         "scikit-learn",
         "umap-learn",
